@@ -139,7 +139,6 @@ if(isset($accessToken)){
         <!-- Facebook profile information -->
         <?php echo $output; ?>
     </div>
-    <?php
     <?php 
     if(!empty($userID)){ 
         // Fetch posts from the database 

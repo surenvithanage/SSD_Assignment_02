@@ -18,7 +18,7 @@
 		session_start();
 	}
 	
-	require_once __DIR__ . 'facebook-php-graph-sdk/autoload.php';
+	require_once __DIR__ . '\facebook-php-graph-sdk/autoload.php';
 	
 	// Importing 
 	use Facebook\Facebook;
@@ -37,7 +37,7 @@
 	
 	// Retrieve Access Token
 	try {
-		if(isset($_SESSION['facebook_access_token']) {
+		if(isset($_SESSION['facebook_access_token'])) {
 			$accessToken = $_SESSION['facebook_access_token'];
 		}else{
 			$accessToken = $helper->getAccessToken();
