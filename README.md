@@ -1,4 +1,4 @@
-# Create an event in Google Calendar ( SSD_Assignment_02 )
+# Create an event in Google Calendar <br/> ( SSD_Assignment_02 )
 Oauth 2.0 Framework
 
 Users will need to login using their gmail accounts in order to obtain access to create an event in their google calendar using the web application provided.
