@@ -1,7 +1,7 @@
 # Create an event in Google Calendar <br/> ( SSD_Assignment_02 )
 Oauth 2.0 Framework
 
-Users will need to login using their gmail accounts in order to obtain access to create an event in their google calendar using the web application provided.
+Users will need to Login using their Gmail accounts in order to obtain access to create an event in their google Calendar using the web application provided.
 <br/>
 # Deployment steps <br/>
 1 ) You need to have XAMP or WAMP server to run this web application<br/>
